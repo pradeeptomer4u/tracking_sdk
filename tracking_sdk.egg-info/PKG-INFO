@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: tracking_sdk
+Version: 0.1.0
+Summary: A lightweight SDK for tracking events
+Home-page: https://github.com/pradeeptomer4u/tracking-sdk
+Author: Pradeep
+Author-email: pradeeptomer4u@gmail.com
+License: MIT
+Requires-Python: >=3.10
+Requires-Dist: requests
