@@ -1,9 +1,0 @@
-README.md
-setup.py
-tracking/__init__.py
-tracking/sdk.py
-tracking_sdk.egg-info/PKG-INFO
-tracking_sdk.egg-info/SOURCES.txt
-tracking_sdk.egg-info/dependency_links.txt
-tracking_sdk.egg-info/requires.txt
-tracking_sdk.egg-info/top_level.txt

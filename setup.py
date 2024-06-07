@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='tracking-sdk',
-    version='0.1.1',
+    name='python-tracking-sdk',
+    version='0.0.1',
     packages=find_packages(),
     url='https://github.com/pradeeptomer4u/tracking-sdk',
     license=None,

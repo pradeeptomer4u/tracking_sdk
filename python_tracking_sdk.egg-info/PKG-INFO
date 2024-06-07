@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
-Name: tracking-sdk
-Version: 0.1.1
+Name: python-tracking-sdk
+Version: 0.0.1
 Summary: A lightweight SDK for tracking events in Python applications
 Home-page: https://github.com/pradeeptomer4u/tracking-sdk
 Author: Pradeep

@@ -1,0 +1,9 @@
+README.md
+setup.py
+python_tracking_sdk.egg-info/PKG-INFO
+python_tracking_sdk.egg-info/SOURCES.txt
+python_tracking_sdk.egg-info/dependency_links.txt
+python_tracking_sdk.egg-info/requires.txt
+python_tracking_sdk.egg-info/top_level.txt
+tracking/__init__.py
+tracking/sdk.py
